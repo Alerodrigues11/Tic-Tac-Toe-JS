@@ -6,8 +6,9 @@ Jogo da Velha - JS
 
 Um pequeno projeto de um jogo da velha (Tic-Tac-Tow) utilizando HTML, CSS e Javascript. 
 
+<div align="center">
 | Layout  |
 | --------------- |
 |  <img src=""> |
-
+</div>
 
